@@ -1,0 +1,5 @@
+get http://localhost:5052/api/users
+
+###
+
+get http://localhost:5052/api/users/1
